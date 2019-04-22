@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/alibaba/nls/client/example=GBK
+encoding//src/com/alibaba/nls/client/example/CreateTokenDemo.java=UTF-8
+encoding//src/com/alibaba/nls/client/example/SpeechRecognizerDemo.java=UTF-8
+encoding//src/com/alibaba/nls/client/example/SpeechSynthesizerDemo.java=UTF-8
+encoding//src/com/alibaba/nls/client/example/SpeechTranscriberWithMicrophoneDemo.java=UTF-8
+encoding//src/com/tandan/interphone/server/Asr.java=UTF-8
+encoding//src/com/tandan/interphone/server/TTS.java=UTF-8

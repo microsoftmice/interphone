@@ -1,0 +1,7 @@
+2018 十二月 06 16:51:20,748 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2018 十二月 06 16:53:01,240 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2018 十二月 06 16:54:18,479 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2018 十二月 06 16:55:45,808 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2018 十二月 06 17:38:05,071 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2018 十二月 06 17:44:47,566 -  INFO [nioEventLoopGroup-2-1] (WebSocketClientHandler.java:107) - WebSocket Client connected! response headers[sec-websocket-extensions]:null
+2018 十二月 06 17:45:05,119 -  INFO [nioEventLoopGroup-2-1] (SpeechRecognizerListener.java:80) - connection is closed due to channelInactive,code:-1

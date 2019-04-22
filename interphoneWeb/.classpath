@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_151">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/nls-realtime-sdk-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/nls-service-sdk.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/netty-3.10.6.Final/jar/netty-3.10.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/fastjson-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace/RealtimeDemo/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="nls-sdk-long-asr-2.0.2.jar"/>
+	<classpathentry kind="lib" path="nls-sdk-common-2.0.2.jar"/>
+	<classpathentry kind="lib" path="netty-all-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="nls-sdk-short-asr-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/aliyun-java-sdk-core-4.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/fastjson-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/jaxb-core-2.1.14.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/jaxb-impl-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/netty-3.10.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/netty-all-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/nls-realtime-sdk-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/nls-sdk-common-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/nls-sdk-long-asr-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/nls-sdk-short-asr-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/nls-service-sdk.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/quartz-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspace1/interphone/WebContent/WEB-INF/lib/nls-sdk-tts-2.0.3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

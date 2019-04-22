@@ -1,0 +1,2 @@
+2018 十二月 07 10:12:42,440 -  INFO [nioEventLoopGroup-2-1] (WebSocketClientHandler.java:107) - WebSocket Client connected! response headers[sec-websocket-extensions]:null
+2018 十二月 07 10:12:43,989 -  INFO [nioEventLoopGroup-2-1] (SpeechRecognizerListener.java:80) - connection is closed due to channelInactive,code:-1
